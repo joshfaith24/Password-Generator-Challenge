@@ -31,3 +31,5 @@ characters long, depending on the preference. At least 1 requirement needs to be
 generator will work effectively and efficiently. 
 
 ## Resource Links
+https://joshfaith24.github.io/Password-Generator-Challenge/
+
