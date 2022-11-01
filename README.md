@@ -33,3 +33,8 @@ generator will work effectively and efficiently.
 ## Resource Links
 https://joshfaith24.github.io/Password-Generator-Challenge/
 
+https://github.com/joshfaith24/Password-Generator-Challenge
+
+<img width="1088" alt="Screen Shot 2022-11-01 at 12 36 04 AM" src="https://user-images.githubusercontent.com/113576524/199159988-f5e35a72-b0b3-4320-8124-6cbe9d31daa3.png">
+
+<img width="1083" alt="Screen Shot 2022-11-01 at 12 35 24 AM" src="https://user-images.githubusercontent.com/113576524/199160004-e0b0f7b4-85e5-4f48-b608-1934e7a19969.png">
